@@ -1,0 +1,15 @@
+/Users/denjasan/AYA/3sem/sharp4/task3/bin/Debug/net6.0/task3
+/Users/denjasan/AYA/3sem/sharp4/task3/bin/Debug/net6.0/task3.deps.json
+/Users/denjasan/AYA/3sem/sharp4/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/Users/denjasan/AYA/3sem/sharp4/task3/bin/Debug/net6.0/task3.dll
+/Users/denjasan/AYA/3sem/sharp4/task3/bin/Debug/net6.0/ref/task3.dll
+/Users/denjasan/AYA/3sem/sharp4/task3/bin/Debug/net6.0/task3.pdb
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.dll
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/ref/task3.dll
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.pdb
+/Users/denjasan/AYA/3sem/sharp4/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
